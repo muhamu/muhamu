@@ -1,10 +1,12 @@
 # Muhammad Haikal
 
-Saya bikin **benarkahmasukpersib** karena capek lihat akun-akun rumor transfer Persib yang isinya cuma tebak-tebakan tanpa dasar -- jadi saya bangun sistem yang menghitung confidence score dan sentimen dari data mentah, bukan dari vibes. Ternyata itu lebih jujur daripada sumber yang katanya "orang dalam".
+Software developer berbasis di Bandung, dengan fokus pada backend engineering dan eksperimen di seputar AI/RAG.
 
-Selain itu saya kerja di perbatasan antara backend dan eksperimen: **rag-mcp** untuk nyambungin RAG pipeline (Go) ke Claude lewat MCP dengan Supabase sebagai storage, **litedbmanager** karena saya capek nggak ada DB manager ringan yang enak dipakai di Mac, dan beberapa proyek NodeJS/PHP lama yang masih saya rawat karena masih ada yang pakai.
+Proyek yang sedang saya kerjakan adalah **rag-mcp**, sebuah RAG pipeline berbasis Go dengan MCP server yang terhubung ke Claude, memakai Supabase sebagai penyimpanan data dan ASP.NET sebagai frontend -- mencakup proses ingest dokumen PDF, chunking, hingga query.
 
-Basis saya di Bandung. Saya nggak nulis "always learning" di sini -- kalau ada project baru di atas, itu artinya saya memang sedang belajar sesuatu, dan kalau berhenti nambah, artinya saya sedang sibuk di tempat lain, bukan berhenti.
+Selain itu saya mengembangkan **litedbmanager**, database manager ringan berbasis Tauri untuk macOS, dan merawat beberapa proyek Node.js serta PHP yang masih digunakan. Salah satu proyek saya yang lain, **benarkahmasukpersib**, adalah aplikasi Next.js yang menghitung confidence score dan sentimen dari rumor transfer pemain Persib Bandung berdasarkan data.
+
+Proyek-proyek di atas mencerminkan apa yang sedang saya pelajari saat ini; kalau daftarnya berhenti bertambah, itu berarti saya sedang fokus pada hal lain, bukan berhenti belajar.
 
 ### Yang saya pakai
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -15,9 +17,9 @@ Basis saya di Bandung. Saya nggak nulis "always learning" di sini -- kalau ada p
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ### Proyek yang paling menjelaskan cara kerja saya
-- **[benarkahmasukpersib](https://github.com/muhamu/benarkahmasukpersib)** -- ranking rumor transfer Persib pakai confidence score & sentiment analysis, Next.js + MongoDB
-- **[rag-mcp](https://github.com/muhamu/rag-mcp)** -- RAG pipeline (Go, MCP server) + frontend ASP.NET, ingest PDF sampai query via Claude
-- **[litedbmanager](https://github.com/muhamu/litedbmanager)** -- DB manager ringan berbasis Tauri untuk Mac
+- **[rag-mcp](https://github.com/muhamu/rag-mcp)** -- RAG pipeline (Go, MCP server) dengan frontend ASP.NET, mencakup ingest PDF hingga query via Claude
+- **[litedbmanager](https://github.com/muhamu/litedbmanager)** -- database manager ringan berbasis Tauri untuk macOS
+- **[benarkahmasukpersib](https://github.com/muhamu/benarkahmasukpersib)** -- ranking rumor transfer Persib berdasarkan confidence score dan sentiment analysis, Next.js + MongoDB
 
 ### Statistik
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhamu&show_icons=true&theme=default)
@@ -25,4 +27,3 @@ Basis saya di Bandung. Saya nggak nulis "always learning" di sini -- kalau ada p
 
 ### Kontak
 [LinkedIn](https://www.linkedin.com/in/muhaikal/)
-
