@@ -31,14 +31,11 @@ _Daftar proyek ini kira-kira menggambarkan apa yang sedang saya pelajari. Kalau 
 | **[litedbmanager](https://github.com/muhamu/litedbmanager)** | Database manager ringan berbasis Tauri untuk macOS |
 | **[benarkahmasukpersib](https://github.com/muhamu/benarkahmasukpersib)** | Menakar rumor transfer Persib lewat confidence score dan sentiment analysis (Next.js + MongoDB) |
 
-### Statistik
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhamu&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamu&layout=compact)
 
 ### Ngobrol yuk
 
 Saya juga menulis, kadang soal teknologi, kadang soal hal-hal yang lebih personal. Kalau mau kenalan atau sekadar bertukar cerita, pintunya terbuka.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhaikal/)
-- - ✍️ [Blog](https://cetakbiru.wordpress.com/)
+- ✍️ [Blog](https://cetakbiru.wordpress.com/)
