@@ -1,6 +1,6 @@
 # Halo, saya Muhammad Haikal 👋
 
-Software developer di Bandung. Sehari-hari saya berkutat di backend engineering, dan belakangan ini waktu luang saya habis untuk mengoprek AI dan RAG — sekadar ingin tahu sampai mana barang-barang ini bisa dibawa.
+Software developer di Bandung. Sehari-hari saya berkutat di backend engineering, dan belakangan ini waktu luang saya habis untuk mengoprek AI dan RAG. Sekadar ingin tahu sampai mana barang-barang ini bisa dibawa.
 
 Buat saya, ngoding itu mirip menulis: cara paling jujur untuk memahami sesuatu adalah dengan mencoba membangunnya sendiri. Jadi kebanyakan proyek di sini lahir dari rasa penasaran, bukan dari rencana besar.
 
@@ -12,7 +12,7 @@ Di sela-selanya saya juga mengembangkan **litedbmanager**, database manager ring
 
 Dan karena saya penggemar Persib Bandung, ada juga **benarkahmasukpersib** — aplikasi Next.js yang menghitung confidence score dan sentimen dari rumor transfer pemain, supaya saya tidak gampang termakan kabar burung menjelang bursa transfer.
 
-_Daftar proyek ini kira-kira menggambarkan apa yang sedang saya pelajari. Kalau suatu saat berhenti bertambah, itu bukan berarti saya berhenti belajar — cuma sedang fokus di tempat lain._
+_Daftar proyek ini kira-kira menggambarkan apa yang sedang saya pelajari. Kalau suatu saat berhenti bertambah, itu bukan berarti saya berhenti belajar. cuma sedang fokus di tempat lain._
 
 ### Yang biasa saya pakai
 
