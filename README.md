@@ -1,41 +1,34 @@
-# Halo, saya Muhammad Haikal 👋
+# Muhamad Haikal
 
-Software developer di Bandung. Sehari-hari saya berkutat di backend engineering, dan belakangan ini waktu luang saya habis untuk mengoprek AI dan RAG. Sekadar ingin tahu sampai mana barang-barang ini bisa dibawa.
+**Data Engineer / Backend Developer** based in Bandung, Indonesia.
 
-Buat saya, ngoding itu mirip menulis: cara paling jujur untuk memahami sesuatu adalah dengan mencoba membangunnya sendiri. Jadi kebanyakan proyek di sini lahir dari rasa penasaran, bukan dari rencana besar.
+Saya bekerja di bidang data engineering dan software development, mulai dari membangun ETL pipeline dan mengelola data warehouse sampai mengembangkan backend API dan aplikasi web.
 
-### Yang sedang saya kerjakan sekarang
+Sebagian besar pekerjaan saya berkaitan dengan Pentaho, PostgreSQL, Greenplum, Oracle, dan Netezza. Salah satu proyeknya mencakup migrasi 420 tabel (130 GB) dari Netezza ke Greenplum, serta pengembangan 78 ETL jobs yang melibatkan 20 database.
 
-Saya lagi asyik dengan **rag-mcp**, sebuah RAG pipeline berbasis Go dengan MCP server yang tersambung ke Claude. Datanya disimpan di Supabase, frontend-nya pakai ASP.NET, dan alurnya lengkap dari ingest dokumen PDF, chunking, sampai query. Idenya sederhana: saya ingin tahu seperti apa rasanya membangun sendiri "otak" yang bisa menjawab dari dokumen saya sendiri.
+Belakangan saya lebih banyak mengerjakan pipeline berbasis ClickHouse dan dbt, sekaligus mengeksplorasi integrasi LLM ke aplikasi yang sudah ada. Fokus saya bukan sekadar memanggil API model, tetapi juga bagaimana data diproses, diambil kembali melalui RAG, dan digunakan oleh aplikasi secara konsisten.
 
-Di sela-selanya saya juga mengembangkan **litedbmanager**, database manager ringan berbasis Tauri untuk macOS, sambil merawat beberapa proyek Node.js dan PHP lama yang ternyata masih dipakai orang.
+## Selected Projects
 
-Dan karena saya penggemar Persib Bandung, ada juga **benarkahmasukpersib** — aplikasi Next.js yang menghitung confidence score dan sentimen dari rumor transfer pemain, supaya saya tidak gampang termakan kabar burung menjelang bursa transfer.
+- **[rag-mcp](https://github.com/muhamu/rag-mcp)**  
+  Eksperimen RAG pipeline berbasis Go dan MCP server yang terintegrasi dengan Claude. Mencakup document ingestion, chunking, retrieval, dan antarmuka ASP.NET dengan Supabase sebagai penyimpanan data.
 
-_Daftar proyek ini kira-kira menggambarkan apa yang sedang saya pelajari. Kalau suatu saat berhenti bertambah, itu bukan berarti saya berhenti belajar. cuma sedang fokus di tempat lain._
+- **[litedbmanager](https://github.com/muhamu/litedbmanager)**  
+  Database manager ringan untuk macOS, dibangun menggunakan Tauri.
 
-### Yang biasa saya pakai
+- **[benarkahmasukpersib](https://github.com/muhamu/benarkahmasukpersib)**  
+  Proyek pribadi untuk mengumpulkan dan menganalisis rumor transfer Persib Bandung. Menggunakan n8n untuk otomasi data, MongoDB untuk penyimpanan, dan Next.js untuk menampilkan ranking serta analisis sentimen.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+## Tech Stack
 
-### Proyek yang paling menjelaskan cara kerja saya
+**Data Engineering:** Pentaho, PostgreSQL, Greenplum, Oracle, Netezza, ClickHouse, dbt
 
-| Proyek | Cerita singkatnya |
-| --- | --- |
-| **[rag-mcp](https://github.com/muhamu/rag-mcp)** | RAG pipeline (Go, MCP server) dengan frontend ASP.NET — dari ingest PDF sampai query lewat Claude |
-| **[litedbmanager](https://github.com/muhamu/litedbmanager)** | Database manager ringan berbasis Tauri untuk macOS |
-| **[benarkahmasukpersib](https://github.com/muhamu/benarkahmasukpersib)** | Menakar rumor transfer Persib lewat confidence score dan sentiment analysis (Next.js + MongoDB) |
+**Backend & Web:** Go, Node.js, PHP, JavaScript, TypeScript, React, Next.js
 
+**AI & Data Applications:** RAG, LLM Integration, MCP, Python
 
+**Infrastructure:** Linux, Docker, Bash
 
-### Ngobrol yuk
+---
 
-Saya juga menulis, kadang soal teknologi, kadang soal hal-hal yang lebih personal. Kalau mau kenalan atau sekadar bertukar cerita, pintunya terbuka.
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/muhaikal/)
-- ✍️ [Blog](https://cetakbiru.wordpress.com/)
+Di luar pekerjaan, saya suka membuat proyek kecil untuk mencoba teknologi atau menyelesaikan masalah yang saya temui sendiri. Beberapa repository di sini lahir dari pekerjaan sehari-hari, beberapa lainnya dari ketertarikan saya pada sepak bola dan pengolahan data.
