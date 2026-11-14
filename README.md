@@ -2,9 +2,9 @@
 
 **Data Engineer / Backend Developer** based in Bandung, Indonesia.
 
-Saya bekerja di bidang data engineering dan software development, mulai dari membangun ETL pipeline dan mengelola data warehouse sampai mengembangkan backend API dan aplikasi web.
+Saya bekerja di bidang data engineering dan software development, dan L2 Support Oracle DB mulai dari membangun ETL pipeline dan mengelola data warehouse sampai mengembangkan backend API dan aplikasi web.
 
-Sebagian besar pekerjaan saya berkaitan dengan Pentaho, PostgreSQL, Greenplum, Oracle, dan Netezza. Salah satu proyeknya mencakup migrasi 420 tabel (130 GB) dari Netezza ke Greenplum, serta pengembangan 78 ETL jobs yang melibatkan 20 database.
+Sebagian besar pekerjaan saya berkaitan dengan Software Development menggunakan React (Vite) + GoLang beserta Data Engineering dan L2 Support menggunakan Pentaho, PostgreSQL, Greenplum, Oracle, dan Netezza. Salah satu proyeknya mencakup migrasi 420 tabel (130 GB) dari Netezza ke Greenplum, serta pengembangan 78 ETL jobs yang melibatkan 20 database.
 
 Belakangan saya lebih banyak mengerjakan pipeline berbasis ClickHouse dan dbt, sekaligus mengeksplorasi integrasi LLM ke aplikasi yang sudah ada. Fokus saya bukan sekadar memanggil API model, tetapi juga bagaimana data diproses, diambil kembali melalui RAG, dan digunakan oleh aplikasi secara konsisten.
 
